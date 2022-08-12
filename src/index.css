@@ -1,0 +1,16 @@
+body {
+  margin:0;
+}
+
+.fruits {
+  padding:2rem;
+  margin:1rem;
+  background:rgb(237, 237, 237);
+  min-height:25rem;
+  border: 2px solid grey;
+  border-radius: 1rem;
+}
+
+.fruit {
+  
+}
